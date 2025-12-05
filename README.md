@@ -4,3 +4,5 @@ are same, so the point where that DERIVATIVE is zero is also same in both cases.
 
 (2) Note that in slide 4.jpg in My_mathematical_notes, a correction is needed in the top half of the slide. Partial derivative of z_j with respect to x_i should be -1 
 instead of 1 when i = j
+
+(3) Note that bottom part of slide 7.jpg and slide 8.jpg in My_mathematical_notes, shows how in case of MATRIX FORMULATION of LEAST SQUARES PROBLEM, the NEWTON METHOD gives SOLUTION in ONE ITERATION. 
